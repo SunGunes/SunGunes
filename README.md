@@ -26,14 +26,30 @@ I began my developer journey while I was at High School with enroling ***pre-AP*
   </details>
 
 
-As a Recap, I'm Final year Computer Science student at the University Of Surrey and working on Project-based Full Stack Developer && Part-time dApp developer.
+As a Recap, I'm Final year **[Computer Science](https://www.surrey.ac.uk/undergraduate/computer-science)** student at the University Of Surrey and working on Project-based Full Stack Developer && Part-time dApp developer.
+
 
 
  
 # Projects
 
+# Badges
+
+Frameworks, Platforms and Libraries
+
+ | Name | Badge | Years of Experience |
+ | :--- | :--- | ---: |
+ | Next JS | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | 2+ |
+ | Node.js |![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)| 2+ |
+ | Rails | ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)| 1~ |
+ | React | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)| 1+ |
 
 
+# GitHub Stats
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=solgunes&show_icons=true&theme=tokyonight" 
+/>
 
 
 
