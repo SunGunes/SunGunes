@@ -1,8 +1,8 @@
 # About Me
 
-I began my developer journey while I was at High School with enroling ***pre-AP** Computer Science* course in September 2016. After that course I had an solid passion to be a Full-Time **Computer Scientiest**. I was the head of our [Hisar School's](https://www.hisarschool.k12.tr/hisar-okullari-en/) [Robotic Team](https://www.instagram.com/hisarravens/?hl=en) [Hisar Ravens](https://twitter.com/hisar_ravens). I gained so many skills such as dedication to an idea, being a teamworker and work with different group of people and most importantly being a good leader. I picked up my knowledge of *Java*, *C++*, *Matlab* for coding the robots we build. After that I wanted to build applications and get in to App Desing/Development World. After completeting Apple's and Udemy's App Developmenent certifications. I created few apps such as Todo Lists for Robotic Teams and GPA Calculator for our High School students.  
+I began my developer journey while at High School by enrolling pre-AP Computer Science course in September 2016. After that course, I had a solid passion for being a Full-Time Computer Scientist. I was the head of our [Hisar School's](https://www.hisarschool.k12.tr/hisar-okullari-en/) [Robotic Team](https://www.instagram.com/hisarravens/?hl=en) [Hisar Ravens](https://twitter.com/hisar_ravens). I gained so many skills such as dedication to an idea, being a team worker, working with a different group of people, and, most importantly, being a good leader. I picked up my knowledge of Java, C++, Matlab for coding the robots we build. After that, I wanted to make applications and get into App Desing/Development World. After completing Apple's and Udemy's App Development certifications. I created a few apps such as Todo Lists for Robotic Teams and GPA Calculator for our High School students.
 
- When I got into the **[University Of Surrey for Computer Science BS](https://www.surrey.ac.uk/)** in September 2019, I put my mind that I want to be a Full-Stack Web Developer and BlockChain Developer. The course combines practical projects and theoretical study, developing technical and transferable skills in:
+When I got into the **[University Of Surrey for Computer Science BS](https://www.surrey.ac.uk/)** in September 2019, I put in my mind that I wanted to be a Full-Stack Web Developer and Blockchain Developer. The course combines practical projects and theoretical study, developing technical and transferable skills in:
 - Web Development Languages: HTML5,CSS3,JavaScript,XML,JQuery,Ruby, Ajax
 - Programming Languages: Java, Python, Haskell, C++
 - Numerical computing Environments: Matlab, Scilab and Sage Math
@@ -26,8 +26,7 @@ I began my developer journey while I was at High School with enroling ***pre-AP*
   </details>
 
 
-As a Recap, I'm Final year **[Computer Science](https://www.surrey.ac.uk/undergraduate/computer-science)** student at the University Of Surrey and working on Project-based Full Stack Developer && Part-time dApp developer.
-
+To recap, I'm a final year **[Computer Science](https://www.surrey.ac.uk/undergraduate/computer-science)** student at the University Of Surrey and working on a Project-based Full Stack Developer && Part-time app developer.
 
 
  
