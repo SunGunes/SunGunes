@@ -26,7 +26,7 @@ When I got into the **[University Of Surrey for Computer Science BS](https://www
   </details>
 
 
-To recap, I'm a final year **[Computer Science](https://www.surrey.ac.uk/undergraduate/computer-science)** student at the University Of Surrey and working on a Project-based Full Stack Developer && Part-time app developer.
+To recap, I'm a final year **[Computer Science](https://www.surrey.ac.uk/undergraduate/computer-science)** student at the University Of Surrey and  Full Stack Web Developer full time. 
 
 
  
